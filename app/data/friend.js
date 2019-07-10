@@ -1,7 +1,7 @@
 var friendList = [
     {
       name: 'SkippyRippy',
-      profilePic: 'https://avatars3.githubusercontent.com/u/17751317?v=3&s=466',
+      profilePic: 'umbre2.jpg',
       scores: [
         "4",
         "5",
